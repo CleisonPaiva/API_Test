@@ -19,7 +19,6 @@ class CompanyController extends Controller
     {
        return Company::all();
     }
-
     /**
      * Store a newly created resource in storage.
      *
